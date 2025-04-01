@@ -1,1 +1,0 @@
-import{_ as r}from"./plugin-vueexport-helper-DlAUqK2U.js";import{c as e,o}from"./index-IAdPT83Y.js";const c={};function t(n,a){return o(),e("h1",null,"error page")}const f=r(c,[["render",t]]);export{f as default};
