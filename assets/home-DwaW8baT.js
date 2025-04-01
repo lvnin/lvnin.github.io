@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as t,a as r,o as s}from"./index-CdUif8_1.js";const n={},a={class:"container-xl"};function c(_,e){return s(),t("div",a,e[0]||(e[0]=[r("h1",null,"home page",-1)]))}const f=o(n,[["render",c]]);export{f as default};
