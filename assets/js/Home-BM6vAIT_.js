@@ -1,1 +1,0 @@
-import{d as o,c as t,a as n,o as s}from"./index-STe7ziaP.js";const a={class:"container-xl"},_=o({__name:"Home",setup(r){return(l,e)=>(s(),t("div",a,e[0]||(e[0]=[n("h1",null,"Hello, World!",-1)])))}});export{_ as default};
